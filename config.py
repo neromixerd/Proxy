@@ -1,0 +1,7 @@
+url = 'https://api.github.com/repos/'
+user_repo = 'user_repo'
+pull = '/pulls'
+issue = '/issues'
+fork = '/forks'
+created_at = 'created_at'
+time_format = '%Y-%m-%dT%H:%M:%SZ'
